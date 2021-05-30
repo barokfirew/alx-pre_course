@@ -1,0 +1,1 @@
+Git seems very good fro projects invoving groups. 
